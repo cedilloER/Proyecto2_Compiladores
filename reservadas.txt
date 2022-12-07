@@ -1,0 +1,17 @@
+create ^(CREATE|create)$
+use ^(USE|use)$
+database ^(DATABASE|database)$
+table ^(TABLE|table)$
+int ^(INT|int)$
+varchar ^(VARCHAR|varchar)$
+float ^(FLOAT|float)$
+date ^(DATE|date)$
+char ^(CHAR|char)$
+boolean ^(BOOLEAN|boolean)$
+insert ^(INSERT|insert)$
+into ^(INTO|into)$
+values ^(VALUES|values)$
+select ^(SELECT|select)$
+from ^(FROM|from)$
+delete ^(DELETE|delete)$
+where ^(WHERE|where)$

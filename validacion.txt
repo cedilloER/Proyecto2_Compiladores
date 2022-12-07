@@ -1,0 +1,8 @@
+literal ^"[[:print:]]+"$
+numero ^[0-9]+(.[0-9]+)?$
+comparacion ^(=|<|>|<=|>=|<>|!=|!<|!>)$
+delimitador ^[;]$
+separador ^[,]$
+aperturaParentesis ^[(]$
+cierre parentesis ^[)]$
+id ^([0-9_]+)?[[:alpha:]]([[:alnum:]_]+)?$
